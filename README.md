@@ -1,4 +1,4 @@
-# Spider Solitaire
+# Suomsiang
 
 The Spider Solitaire developed in JavaScript.
 
