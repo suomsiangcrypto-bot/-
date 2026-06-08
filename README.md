@@ -6,7 +6,7 @@ The Spider Solitaire developed in JavaScript.
 
 ## Web:
 
-https://lrusso.github.io/Spider/Spider.htm
+ https://suomsiangcrypto-bot.github.io/-/
 
 ## Differences with the original project:
 
