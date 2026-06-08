@@ -2,9 +2,9 @@
 
 The Spider Solitaire developed in JavaScript.
 
-![alt screenshot]( https://suomsiangcrypto-bot.github.io/-/)
+![alt screenshot]( https://suomsiangcrypto-bot.github.io)
 
-## Web:
+## Web: https://suomsiangcrypto-bot.github.io
 
  https://suomsiangcrypto-bot.github.io/-/
 
